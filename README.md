@@ -4,4 +4,4 @@ Growth model for diamonds. Allows manipulation of growth velocities in various d
 
 CDFs (Computable Document Format) are interactive executables that can be run either with Mathematica or CDF player. However if using CDF player, file maniuplation options cannot be used (cannot export or import configurations, or other exportables). Notebooks (.nb) files contain the Mathematica source code and can also be executed by users with a Mathematica license. 
 
-Still WIP is a program that automatically calculates growth velcoties of a diamond given a 3D scan of the diamond (see "Diamond Scan Program"). 
+Still WIP is a program that automatically calculates growth velcoties of a diamond given a 3D scan of the diamond in STL format (see "3D Scan Program"). 
